@@ -7,7 +7,7 @@ Frontend Developer
 Fresh Graduate of Computer Science student with skill of programming to deliver an immersive and engaging user experience through efficient website development. Proficient with HTML, CSS and Javascript, with extensive knowledge of Front-End and UI/UX Design. Seeking to use proven skills especially in React.js to driving innovation with the ability to follow industry and technological trends.
 
 * 🌍  I'm based in Depok
-* 🖥️  See my portfolio at [MyPortfolio](http://drive.google.com/file/d/1_KwJMRZwCPErI_DMAkMFsB8HU5b4toLR/view?usp=sharing)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.aurellior.com/)
 * ✉️  You can contact me at [aurelliorr@gmail.com](mailto:aurelliorr@gmail.com)
 * 🧠  I'm learning Typescript
 
