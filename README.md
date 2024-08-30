@@ -1,4 +1,4 @@
-Hi 👋 My name is Aurellio Dhiya Wisnu Rajendra
+Hi 👋 I'm Aurellio 
 ==============================================
 
 Frontend Developer
