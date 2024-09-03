@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://www.aurellior.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=aurelliorr.com&logo=visualstudio&label=%F0%9F%96%A5%EF%B8%8F%C2%A0See%20my%20portfolio%20at&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="33" alt="visualstudio logo"  />
+    <img src="https://img.shields.io/static/v1?message=aurellior.com&logo=visualstudio&label=%F0%9F%96%A5%EF%B8%8F%C2%A0See%20my%20portfolio%20at&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="33" alt="visualstudio logo"  />
   </a>
 </div>
 
