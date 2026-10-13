@@ -7,7 +7,7 @@
 <p align="left">Fresh Graduate of Computer Science student with skill of programming to deliver an immersive and engaging user experience through efficient website development. Proficient with HTML, CSS and Javascript, with extensive knowledge of Front-End and UI/UX Design. Seeking to use proven skills especially in React.js to driving innovation with the ability to follow industry and technological trends.</p>
 
 <div align="left">
-  <a href="https://portfolio-website-six-beta.vercel.app/" target="_blank">
+  <a href="https://aurellior.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=visualstudio&label=%F0%9F%96%A5%EF%B8%8F%C2%A0&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="33" alt="visualstudio logo"  />
   </a>
 </div>
